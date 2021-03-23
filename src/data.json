@@ -1,0 +1,102 @@
+[ 
+
+    { 
+    
+    "id": 1, 
+    
+    "game": "OCTOPATH TRAVELER", 
+    
+    "description": "Eight travelers. Eight adventures. Eight roles to play. Embark on an epic journey across the vast and wondrous world of Orsterra and discover the captivating stories of each of the eight travelers.", 
+    
+    "image": "images/octopath.jpeg", 
+    
+    "price": 49.97 
+    
+     
+     
+    
+    }, 
+    
+    { 
+    
+    "id": 2, 
+    
+    "game": "BORDERLANDS 3 ULTIMATE EDITION", 
+    
+    "description": "Borderlands 3 Ultimate Edition is the quintessential Borderlands 3 experience, featuring the award-winning base game plus all 6 content add-ons and the full collection of bonus cosmetic packs! Blast through multiple worlds as 1 of 4 Vault Hunters – the ultimate treasure-seeking badasses of the Borderlands.", 
+    
+    "image": "images/borderlands3.jpeg", 
+    
+    "price": 77.60 
+    
+     
+     
+    
+    }, 
+    
+    { 
+    
+    "id": 3, 
+    
+    "game": "Red Dead Redemption 2", 
+    
+    "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.", 
+    
+    "image": "images/reddead2.jpeg", 
+    
+    "price": 66.96 
+    
+     
+     
+    
+    }, 
+    
+    { 
+    
+    "id": 4, 
+    
+    "game": "Forza Horizon 4", 
+    
+    "description": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world. Collect, modify and drive over 450 cars. Race, stunt, create and explore – choose your own path to become a Horizon Superstar.", 
+    
+    "image": "images/forza4.jpeg", 
+    
+    "price": 109.95 
+    
+     
+     
+    
+    }, 
+    
+    { 
+    
+    "id": 5, 
+    
+    "game": "Ravenfield", 
+    
+    "description": "Fight upon the Ravenfield together with your Blue allies! Take down those pesky Reds using helicopters, tanks, guns, and active ragdoll physics!", 
+    
+    "image": "images/ravenfield.jpeg", 
+    
+    "price": 17.99 
+    
+    }, 
+    
+    { 
+    
+    "id": 6, 
+    
+    "game": "GRAND THEFT AUTO V: PREMIUM EDITION", 
+    
+    "description": "The Grand Theft Auto V: Premium Edition includes the complete Grand Theft Auto V story experience, free access to the ever evolving Grand Theft Auto Online and all existing gameplay upgrades and content including The Cayo Perico Heist, The Diamond Casino & Resort, The Diamond Casino Heist, Gunrunning and much more. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in Grand Theft Auto Online.", 
+    
+    "image": "images/gta5.jpeg", 
+    
+    "price": 26.97 
+    
+     
+     
+    
+    } 
+    
+    ] 
